@@ -1,1 +1,1 @@
-export const dayOfWeek = ['일', '월', '화', '수', '목', '금', '토']
+export const dayOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
